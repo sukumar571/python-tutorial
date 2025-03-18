@@ -28,7 +28,7 @@
 #     if count==0:
 #         prime.append(i)
 # print(prime)
-
+'''Or'''
 num1=int(input())
 num2=int(input())
 for i in range(num1,num2+1):
